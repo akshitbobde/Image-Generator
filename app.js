@@ -1,4 +1,4 @@
-
+const acesskey = "API_KEY"
 const inputText = document.querySelector("#input-text");
 const searchBtn = document.querySelector("#find-btn");
 const output = document.querySelector(".output");
