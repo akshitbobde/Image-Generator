@@ -1,4 +1,4 @@
-const accessKey = "pbz2JNmdYWjkqe7U1ZarLbry7LvMIwKLlZ6mmeQF7Go";
+
 const inputText = document.querySelector("#input-text");
 const searchBtn = document.querySelector("#find-btn");
 const output = document.querySelector(".output");
